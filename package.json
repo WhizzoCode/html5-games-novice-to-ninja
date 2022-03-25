@@ -4,7 +4,7 @@
   "description": "Examples from the book: HTML5 Games: Novice to Ninja",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "web-dev-server --node-resolve --watch --open"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/WhizzoCode/html5-games-novice-to-ninja/issues"
   },
-  "homepage": "https://github.com/WhizzoCode/html5-games-novice-to-ninja#readme"
+  "homepage": "https://github.com/WhizzoCode/html5-games-novice-to-ninja#readme",
+  "devDependencies": {
+    "@web/dev-server": "^0.1.30"
+  }
 }

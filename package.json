@@ -1,0 +1,27 @@
+{
+  "name": "html5-games-novice-to-ninja",
+  "version": "1.0.0",
+  "description": "Examples from the book: HTML5 Games: Novice to Ninja",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhizzoCode/html5-games-novice-to-ninja.git"
+  },
+  "keywords": [
+    "html5",
+    "games",
+    "novice",
+    "ninja",
+    "examples",
+    "book"
+  ],
+  "author": "Sergio Martín <sergio@sergiomartin.dev> (https://www.sergiomartin.dev)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WhizzoCode/html5-games-novice-to-ninja/issues"
+  },
+  "homepage": "https://github.com/WhizzoCode/html5-games-novice-to-ninja#readme"
+}
